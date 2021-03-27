@@ -10,13 +10,13 @@
   - Utiliser les story points et les estimations
   - Élaborer la feuille de route et le plan de release
 
-- Dérouler le Scrum au quotidien
+- [Dérouler le Scrum au quotidien](Derouler.md)
   - Planifier des sprints
   - Suivre l'avancement
   - S'initier à la mêlée quotidienne
   - Affiner le backlog
 
-- Conclure le sprint
+- [Conclure le sprint](Conclusion.md)
   - Terminer une story
   - Organiser la démo du travail de l'équipe
   - Évaluer l'équipe
