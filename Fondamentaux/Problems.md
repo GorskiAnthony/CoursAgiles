@@ -2,9 +2,9 @@
 
 ## Lever les problèmes potentiels rapidement
 
-L'un des problemes les plus fréquentes c'est de laisser une tache d'un sprint à l'autre. Veuillez à ne pas être trop gourmand :D
+L'un des problèmes les plus fréquents, c'est de laisser une tache d'un sprint à l'autre. Veuillez à ne pas être trop gourmand :D
 
-Il y a aussi de s'acharner sur une fixtures alors qu'elle n'en vaut pas la peine.
+Il y a aussi à s'acharner sur une fixtures alors qu'elle n'en vaut pas la peine.
 
 ## Aller plus loin
 
