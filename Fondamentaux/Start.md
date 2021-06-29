@@ -17,7 +17,7 @@ L'approche agile, c'est quoi ?
 
 - Itératives et incrémentales
 
-![agile](/img/agile1.png)
+![agile](img/agile1.png)
 
 - Empiriques
 - Empirique veut dire qu'elles intègrent l'incertitude et notre mécompréhension des processus en jeu, pas comme une contrainte du projet.
